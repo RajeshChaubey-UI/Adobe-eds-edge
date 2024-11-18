@@ -16,6 +16,12 @@
   background-color: #C6D9F1;
 }
 
+.table table thead tr td table thead tr td th {
+    background-color: #C6D9F1;
+}
+
+
+
 @media (width >= 600px) {
   .table table {
     font-size: var(--body-font-size-s);
